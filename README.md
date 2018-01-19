@@ -29,12 +29,13 @@ Demo & Screenshots
 ------------------
 
 <p align="center">
-  <img src="https://s3.amazonaws.com/ionic-marketplace/facebook-messenger-clone/screenshot_1.png" width="25%" />
-  <img src="https://s3.amazonaws.com/ionic-marketplace/facebook-messenger-clone/screenshot_2.png" width="25%" />
-  <img src="https://s3.amazonaws.com/ionic-marketplace/facebook-messenger-clone/screenshot_3.png" width="25%" />
-  <img src="https://s3.amazonaws.com/ionic-marketplace/facebook-messenger-clone/screenshot_4.png" width="25%" />
+  <img src="https://s3.amazonaws.com/ionic-marketplace/facebook-messenger-clone/screenshot_1.png" width="40%" />
+  <img src="https://s3.amazonaws.com/ionic-marketplace/facebook-messenger-clone/screenshot_2.png" width="40%" />
 </p>
-
+<p align="center">
+  <img src="https://s3.amazonaws.com/ionic-marketplace/facebook-messenger-clone/screenshot_3.png" width="40%" />
+  <img src="https://s3.amazonaws.com/ionic-marketplace/facebook-messenger-clone/screenshot_4.png" width="40%" />
+</p>
 
 Local Development
 -----------------
